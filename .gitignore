@@ -1,0 +1,11 @@
+.vs
+SpotPay.Common/bin
+SpotPay.Common/obj
+SpotPay.Data/bin
+SpotPay.Data/obj
+SpotPay.Presentation/bin
+SpotPay.Presentation/obj
+SpotPay.Repository
+SpotPay.Repository
+SpotPay.Service/bin
+SpotPay.Service/obj
