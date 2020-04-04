@@ -5,7 +5,7 @@ SpotPay.Data/bin
 SpotPay.Data/obj
 SpotPay.Presentation/bin
 SpotPay.Presentation/obj
-SpotPay.Repository
-SpotPay.Repository
+SpotPay.Repository/bin
+SpotPay.Repository/obj
 SpotPay.Service/bin
 SpotPay.Service/obj
